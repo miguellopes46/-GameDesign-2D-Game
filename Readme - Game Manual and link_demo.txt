@@ -1,9 +1,12 @@
 To see a demo visit: https://drive.google.com/drive/folders/1ZYOYT6VdWmG0tcryrKnyNwA_tbO-NiZ9?usp=sharing
 
 Done by:
-Hugo Prata
+
+Hugo Prata, uc2014198526@student.uc.pt
+
 Miguel Lopes
-Tiago Delgado
+
+Tiago Delgado, uc2021179681@student.uc.pt
 
 ----------------
 Movement
